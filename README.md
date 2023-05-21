@@ -37,7 +37,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ### Backend
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -54,7 +53,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -70,10 +68,16 @@
 ![Webstorm](https://camo.githubusercontent.com/961d55caf5c09c96e5b61c0c2a5233a3197de1da3b224827c4ebfcad5196f148/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57656253746f726d26636f6c6f723d303030303030266c6f676f3d57656253746f726d266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Xcode](https://camo.githubusercontent.com/7e5641f73052dc5ff26e7751687c83ce75a963a3152f367a19157b804a87ab3f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d58636f646526636f6c6f723d313437454642266c6f676f3d58636f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
+### OS
+
+![Windows](https://camo.githubusercontent.com/822807a1e77754e8f7eda38b7ca7af442d261b38e332d4ce5b3154526221c379/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696e646f777326636f6c6f723d303037384436266c6f676f3d57696e646f7773266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![MacOS](https://camo.githubusercontent.com/2dbf48f1d4f42b9fb505af7afad8b6012f64d04219793309f814d59a33cab631/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6d61634f5326636f6c6f723d303030303030266c6f676f3d6d61634f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  
 ### Graphic
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+
 
 
 # 📊 GitHub Stats:
