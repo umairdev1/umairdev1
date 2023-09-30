@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairdev1&label=Profile%20views&color=0e75b6&style=flat" alt="umairdev1" /> </p>
 
 # 💫 About Me:
-🌱 I’m passionate about staying up-to-date with the latest trends and developments in the field. <br>👨‍💻 All of my projects are available at [https://umairdev.com/](https://umairdev.com/) <br>📝 I regularly write articles on [https://bit.ly/3ol7v9X](https://bit.ly/3ol7v9X) <br>💬 Ask me about Flutter, MERN, NestJs, NextJs, MongoDb <br>📫 How to reach me **umairdev4@gmail.com**
+🌱 I’m passionate about staying up-to-date with the latest trends and developments in the field. <br>👨‍💻 All of my projects are available at [https://umairdev.com/](https://umairsaleem.com/) <br>📝 I regularly write articles on [https://bit.ly/3ol7v9X](https://bit.ly/3ol7v9X) <br>💬 Ask me about Flutter, MERN, NestJs, NextJs, MongoDb <br>📫 How to reach me **umairdev4@gmail.com**
 
 
 ## 🌐 Socials:
