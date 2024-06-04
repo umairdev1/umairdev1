@@ -28,7 +28,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cyclic.sh](https://img.shields.io/badge/Cyclic-%230072C6.svg?style=for-the-badge&logo=Cyclic&logoColor=white)
 
 ### Database
@@ -60,18 +60,11 @@
  ### DevOps
  
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- 
-### Tools
-
-![Vscode](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Android Studio](https://camo.githubusercontent.com/14eb6ca30f5158687fe952beb72e36f4e5bfa3ddf6431b37aaf04ec231af7619/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e64726f69642b53747564696f26636f6c6f723d323232323232266c6f676f3d416e64726f69642b53747564696f266c6f676f436f6c6f723d334444433834266c6162656c3d)
-![Webstorm](https://camo.githubusercontent.com/961d55caf5c09c96e5b61c0c2a5233a3197de1da3b224827c4ebfcad5196f148/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57656253746f726d26636f6c6f723d303030303030266c6f676f3d57656253746f726d266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Xcode](https://camo.githubusercontent.com/7e5641f73052dc5ff26e7751687c83ce75a963a3152f367a19157b804a87ab3f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d58636f646526636f6c6f723d313437454642266c6f676f3d58636f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ### OS
 
-![Windows](https://camo.githubusercontent.com/822807a1e77754e8f7eda38b7ca7af442d261b38e332d4ce5b3154526221c379/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696e646f777326636f6c6f723d303037384436266c6f676f3d57696e646f7773266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![MacOS](https://camo.githubusercontent.com/2dbf48f1d4f42b9fb505af7afad8b6012f64d04219793309f814d59a33cab631/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6d61634f5326636f6c6f723d303030303030266c6f676f3d6d61634f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  
 ### Graphic
