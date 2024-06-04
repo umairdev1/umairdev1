@@ -1,4 +1,4 @@
-[![MasterHead](https://ridzeal.com/wp-content/uploads/2021/11/How-Software-Development-Company-Works.jpg)](https://umairdev.com)
+[![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://umairsaleem.com)
 
 
 <h1 align="center">Hi 👋, I'm Umair Saleem</h1>
