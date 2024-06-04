@@ -28,7 +28,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Digital Ocean](https://camo.githubusercontent.com/2d68745f69e68f15ae62797ea7a4dceb639d8ddebc9060156c72b4c6dbf1075c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4469676974616c4f6365616e26636f6c6f723d303038304646266c6f676f3d4469676974616c4f6365616e266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Cyclic.sh](https://img.shields.io/badge/Cyclic-%230072C6.svg?style=for-the-badge&logo=Cyclic&logoColor=white)
 
 ### Database
